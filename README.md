@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Aung Nyi Latt 👋</h1>
+<h1 align="center">Hello there 👋, I'm Aung Nyi Latt</h1>
 
 ---
 

@@ -62,7 +62,6 @@
 - **Coursera**: Machine Learning Specialization, Statistics & Probability for ML and Data Science
 - **freeCodeCamp**: Scientific Computing with Python, Data Analysis with Python
 - **TOEIC Listening & Reading**: 860/990 (CEFR B2)
-- 🌐 Burmese (Native) · English (Fluent) · Thai (Basic)
 
 ---
 

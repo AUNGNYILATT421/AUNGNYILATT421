@@ -1,10 +1,5 @@
 <h1 align="center">Hello there, I'm Aung Nyi Latt 👋</h1>
 
-<p align="center">
-  <em>Passionate about Applied Mathematics · Data Science · Machine Learning</em><br/>
-  <em>Currently diving deep into Deep Learning & Computer Vision</em>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me

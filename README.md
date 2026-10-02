@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Aung Nyi Latt 👋</h1>
+<h1 align="center">Hello there, I'm Aung Nyi Latt 👋</h1>
 
 <p align="center">
   <em>Passionate about Applied Mathematics · Data Science · Machine Learning</em><br/>
-  <em>Currently diving deep into Deep Learning & Computer Vision 🧠👁️</em>
+  <em>Currently diving deep into Deep Learning & Computer Vision</em>
 </p>
 
 ---
@@ -13,7 +13,6 @@
 - 📊 Deeply passionate about **Data Science** — turning raw data into meaningful insight
 - 🤖 Building my expertise in **Machine Learning** and exploring the frontiers of **Deep Learning**
 - 👁️ Currently learning **Computer Vision** — teaching machines to see and understand the world
-- 🌱 Always learning, always growing — one model at a time
 
 ---
 
@@ -47,18 +46,14 @@
 ## 🎯 Current Focus
 
 ```text
-📐 Applied Mathematics    ████████████░░░   Passionate
-📊 Data Science          ███████████░░░░   Building projects
-🤖 Machine Learning      ██████████░░░░░   Hands-on learning
-🧠 Deep Learning         ████████░░░░░░░   Actively studying
-👁️ Computer Vision       ██████░░░░░░░░░   Exploring
+Applied Mathematics    ████████████░░░   Passionate
+Data Science          ███████████░░░░   Building projects
+Machine Learning      ██████████░░░░░   Hands-on learning
+Deep Learning         ████████░░░░░░░   Actively studying
+Computer Vision       ██████░░░░░░░░░   Exploring
 ```
 
 ---
-
-<p align="center">
-  <i>"Mathematics is the language in which God has written the universe." — Galileo</i>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AungNyiLatt&style=flat-square&color=blue" alt="Profile Views" />

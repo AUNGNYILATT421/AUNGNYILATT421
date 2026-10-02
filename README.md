@@ -17,26 +17,6 @@
 - 📊 Focused on predictive modeling, feature engineering and full-cycle data science
 - 💬 I like turning model outputs into clear insights for both technical and non-technical audiences
 
----
-
-## 🚀 Featured Projects
-
-### 🏠 [Housing Price API](https://github.com/AUNGNYILATT421/Housing_Price_API) · [Demo](https://huggingface.co/spaces/Ezio2001/Housing_Price_API)
-- Ranked in the top 16 of 4,000+ in Kaggle's Housing Price competition with a stacking ensemble of Gradient Boosting, CatBoost and Kernel Ridge models, plus 8 engineered features such as total square footage, house age and total bathrooms.
-- Served the model through a FastAPI endpoint that saves each prediction to PostgreSQL, packaged it with Docker, and published a Gradio demo on Hugging Face Spaces.
-
-### 🏦 [Customer Churn Prediction Platform](https://github.com/AUNGNYILATT421/Bank_Customer_Churn) · [Demo](https://bankcustomerchurn-anl.streamlit.app/)
-- Merged two messy Excel sheets covering 10K bank customers and used statistical tests to find which factors actually drive churn.
-- Found that salary and tenure had no effect, while number of products and age mattered most; every customer without a credit card was inactive.
-- Chose XGBoost for accuracy (86%) but kept Logistic Regression because it caught more churners (71% vs 47%); built a Streamlit dashboard flagging customers above 70% churn risk.
-
-### 📈 [Click Analytics App](https://github.com/AUNGNYILATT421/Click_Analytics_App) · [Demo](https://clickanalyticsapp-ezio.streamlit.app/)
-- A Streamlit app that takes an uploaded CSV through the usual steps of an ML project: exploring data with interactive charts, filling missing values, encoding and scaling features, and splitting the data for training and testing.
-- Train scikit-learn, XGBoost, LightGBM or CatBoost models and compare them side by side using metrics and ROC curves.
-- Built so no one needs to rewrite the same EDA and preprocessing code for every new dataset.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -75,15 +55,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
----
-
-## 💼 Experience
-
-- **Junior Data Analyst**, Rangsit University · *Jun 2026 – Aug 2026*: built automated data-cleaning scripts that replaced manual spreadsheet workflows, cutting processing time by 20%.
-- **Office Associate Intern**, Myanmar Man-Power Company · *Feb 2023 – Dec 2023*: prepared monthly Excel performance reports and hiring summaries for a 15-candidate pipeline with 3 overseas hiring managers.
-
----
 
 ## 🎓 Education & Certifications
 
